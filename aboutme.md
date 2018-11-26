@@ -9,7 +9,7 @@ Hi, I'm Jane Smith, a data scientist focused on helping professional service fir
 Studying astrophysics taught me to analyze big data. Growing up with lawyers taught me to ask hard questions. I'd love to work with you to solve business problems using math and code.
 
 ### Recommenders
-I've learned techniques for the "cold start" problem — making recommendations for new users without much information. Offline, salespeople build rapport, but online, how can we learn quickly? To explore this, I developed a beer recommender app that learns your taste in just 10 questions. I gained experience with collaborative filtering and content-based approaches, using Python's scikit-learn and Surprise libraries.
+I've learned techniques for the "cold start" problem — making recommendations for new users without much information. Offline, salespeople build rapport, but online, how can we learn quickly? To explore this, I developed a [beer recommender app](/2018-11-26-beer-app/) that learns your taste in just 10 questions. I gained experience with collaborative filtering and content-based approaches, using Python's scikit-learn and Surprise libraries.
 
 ### Natural Language Processing
 I'm experienced scraping, processing, and analyzing unstructured text data with Python, including NLTK and spaCy.
@@ -18,7 +18,7 @@ I'm experienced scraping, processing, and analyzing unstructured text data with 
 I prototype in Jupyter Notebook, with pandas to wrangle, matplotlib to visualize, and scikit-learn to model. Then I deploy interactive web apps to make models useful. I use Plotly Dash, a framework built on React, D3, and Flask.
 
 ### Physics
-Growing up I idolized Einstein, so I studied physics. Now I'm excited to apply these skills to new, practical problems. Physics backgrounds are common for data scientists.
+Growing up I idolized Einstein, so I studied physics. Now I'm excited to apply these skills to new, practical problems. Physics backgrounds are common for data scientists. For example, Christopher Bishop, Lab Director at Microsoft Research Cambridge, says: "There is something very natural about a physicist going into machine learning." There are many examples in the Wired article, ["Move Over, Coders—Physicists Will Soon Rule Silicon Valley."](https://www.wired.com/2017/01/move-coders-physicists-will-soon-rule-silicon-valley/)
 
 ### Law
 Both my parents were lawyers, so I'm comfortable around legalese. Whatever your industry, I can learn the language and help translate business problems into data science solutions.
