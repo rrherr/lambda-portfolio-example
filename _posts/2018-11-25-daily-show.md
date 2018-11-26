@@ -1,7 +1,7 @@
 ---
 title: Who Got To Be On 'The Daily Show'?
 subtitle: I recreated this data visualization from FiveThirtyEight
-image: /done/img/daily-show-plot.png
+image: /img/daily-show-plot.png
 ---
 
 As a learning experience, I recreated this data visualization from FiveThirtyEight's article, [Every Guest Jon Stewart Ever Had On ‘The Daily Show’](https://fivethirtyeight.com/features/every-guest-jon-stewart-ever-had-on-the-daily-show/).
